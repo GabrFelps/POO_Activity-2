@@ -63,6 +63,23 @@ num = "hello"; // erro: Type 'string' is not assignable to type 'number'.
 
 ### 6. Reescreva o exemplo abaixo, mantendo a quebra de linhas usando template strings e os valores Ely, 120.56 e TypeScript venham de variáveis declaradas separadamente e “interpoladas” na string:
 
-[código]()
+[CÓDIGO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-02/fav_language.ts)
+
+### 7. Pesquise e configure o seu arquivo de configuração do TypeScript com as opções abaixo. Faça testes com as mudanças e perceba a diferença após a configuração.
+a. Alterar o local em que os arquivos *.js são gerados para a pasta build;
+
+b. allowUnreachableCode com valor true;
+https://www.typescriptlang.org/pt/tsconfig#allowUnreachableCode
+
+c. noImplicitAny com valor true;
+https://www.typescriptlang.org/pt/tsconfig#noImplicitAny
+
+d. target com o valor ES3. Além disso, utilize a classe do exercício anterior e veja como ela é transpilada para JS;
+
+e. strictNullChecks para true e crie um exemplo que mostre a restrição;
+
+f. Configure um projeto seu para que seja possível realizar depuração alterando o atributo sourceMap.
+
+[veja o TSCONFIG](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-02/tsconfig.json)
 
 
