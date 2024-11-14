@@ -1,5 +1,3 @@
-// ### 8. Crie um exemplo usando a função map para dobrar os elementos de um array e
-// reduce para totalizar a soma dos elementos do array.
 var NumbersMapDuce = /** @class */ (function () {
     function NumbersMapDuce(arrayNumbs) {
         this.arrayNumbs = arrayNumbs;
