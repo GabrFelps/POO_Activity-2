@@ -38,7 +38,7 @@ console.log(hotel.quantReservas);
 ```
 Adicione o construtor que aceite um parâmetro inteiro e faça a inicialização do atributo quantReservas.
 
-[CÓDIGO DA QUESTÃO]()
+[CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q3.js)
 
 ### 4. Considere a classe Radio e as instruções que fazem seu uso abaixo:
 ```typescript
@@ -92,7 +92,7 @@ String;
 atributos. Ex: "Bom dia, João";
 - Instancie uma classe Saudacao e teste seu método obterSaudacao().
 
-  [CÓDIGO DA QUESTÃO]()
+  [CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q6.ts)
 
 ### 7. Crie uma classe chamada Triangulo que:
 - Possua 3 atributos inteiros representando os lados;
@@ -101,7 +101,7 @@ acordo com a regra: |b-c| < a < b+c;
 - Crie 3 métodos: ehIsoceles(), ehEquilatero() e ehEscaleno() que retorne verdadeiro caso o triângulo seja um dos tipos relacionados ao nome do método. Eles devem chamar antes de tudo, o método da questão b. e retornar false se esse método já retornar false também;
 - Instancie classes Triangulo de diferentes lados e seus métodos. 
 
-  [CÓDIGO DA QUESTÃO]()
+  [CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q7.ts)
 
 ### 8. Uma classe Equipamento com:
 - um atributo ligado (tipo boolean)
@@ -114,7 +114,7 @@ esteja ligado, não ligue novamente. Faça o mesmo com o método
 desligar().
 - Instancie uma classe Equipamento e teste todos os seus métodos.
 
-  [CÓDIGO DA QUESTÃO]()
+  [CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q8.ts)
 
 
 ### 9. Altere a classe conta dos slides conforme as instruções abaixo:
@@ -122,7 +122,7 @@ desligar().
 - Altere o método transferir() para que retorne também um valor lógico e que não seja feita a transferência caso o sacar() na conta origem não seja satisfeito;
 - Verifique as diferentes operações implementadas.
 
-  [CÓDIGO DA QUESTÃO]()
+  [CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q9.ts)
 
 ### 10. Crie uma classe chamada Jogador e nela:
 - Crie 3 atributos inteiros representando força, nível e pontos atuais;
@@ -138,7 +138,7 @@ do jogador seja maior que zero e falso caso contrário.
 - Crie um método chamado toString() que retorna a representação textual do jogador concatenando todos os seus atributos.
 - Avalie em com testes dois jogadores instanciados e inicializados através do construtor. Utilize o método de ataque de cada jogador e ao final, verifique qual jogador tem mais pontos.
 
-  [CÓDIGO DA QUESTÃO]()
+  [CÓDIGO DA QUESTÃO](https://github.com/GabrFelps/POO_Activity-2/blob/main/Exercicio-04/Q10.ts)
 
 ### 11. A abordagem da questão 9 é retornar códigos de erro ou acerto. Já a da questão 10 é desconsiderar a alteração. Quais das duas você acha mais correta? Compare com seus códigos escritos em outras disciplinas.
 
